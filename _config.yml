@@ -24,16 +24,17 @@ description: >- # this means to ignore newlines until "baseurl:"
   Website dedicated to the Mysthaln world built by Caleb Frey.
 baseurl: "/mysthaln/" # the subpath of your site, e.g. /blog
 url: "https://umbraphobia.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: Umbraphobia
+github_username:  Umbraphobia
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
-
+  - jekyll-remote-theme
 minima:
   skin: dark
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
