@@ -21,8 +21,8 @@
 title: Mysthaln
 email: cf@1v4.me
 description: >- # this means to ignore newlines until "baseurl:"
-  Website dedicated to the Mysthaln world built by Caleb Frey.
-baseurl: "/mysthaln/" # the subpath of your site, e.g. /blog
+  Website dedicated to the Mysthaln world built by Caleb.
+baseurl: "/mysthaln" # the subpath of your site, e.g. /blog
 url: "https://umbraphobia.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Umbraphobia
 github_username:  Umbraphobia
@@ -34,6 +34,13 @@ plugins:
   - jekyll-remote-theme
 minima:
   skin: dark
+
+# Collections
+collections_dir: collections
+collections:
+  races:
+    output: true
+    permalink: /:collection/:name
 
 # Exclude from processing.
 # The following items will not be processed, by default.
