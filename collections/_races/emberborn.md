@@ -3,6 +3,8 @@ layout: post
 title: Emberborn
 ---
 
+![Emberborn Profile](../assets/img/emberborn.jpg)
+
 - Homeland: The Ashen Marches
 - Attributes: +1 Wisdom, -1 Charisma
 - Resistance: Heat

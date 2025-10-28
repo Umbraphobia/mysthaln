@@ -3,6 +3,8 @@ layout: post
 title: Draenfyr
 ---
 
+![Draenfyr Profile](../assets/img/draenfyr.jpg)
+
 - Attributes: +1 Constitution, -1 Charisma
 - Resistance: Cold
 - Weakness: Heat

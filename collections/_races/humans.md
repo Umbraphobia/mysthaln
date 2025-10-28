@@ -3,6 +3,8 @@ layout: post
 title: Humans
 ---
 
+![Humans Profile](../assets/img/human.jpg)
+
 - Attributes: +2 Skill
 - Resistance: Varies (Choose)
 - Weakness: Varies (Choose)
