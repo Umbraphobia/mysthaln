@@ -41,6 +41,9 @@ collections:
   races:
     output: true
     permalink: /:collection/:name
+  countries:
+    output: true
+    permalink: /:collection/:name
 
 # Exclude from processing.
 # The following items will not be processed, by default.
