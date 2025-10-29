@@ -41,7 +41,10 @@ collections:
   races:
     output: true
     permalink: /:collection/:name
-  countries:
+  kingdoms:
+    output: true
+    permalink: /:collection/:name
+  gms:
     output: true
     permalink: /:collection/:name
 
