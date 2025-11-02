@@ -47,7 +47,6 @@ Superstitions dominate island life. Few venture out after nightfall, and every s
 Despite oppression, a quiet unity binds the coastal towns. In the creak of rigging and the clang of hidden forges, a low, defiant rhythm echoes — the heartbeat of a people who refuse to forget what freedom once felt like.
 
 ## **Towns and Ports**
-# **Cities and Towns of Skarhold**
 
 | City / Town | Population | Notes |
 |--------------|-------------|-------|
