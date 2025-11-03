@@ -5,9 +5,17 @@ title: Drenvold
 
 ![Drenvold - Karrhold](../assets/img/drenvold.jpg 'Karrhold')
 
+**Continent:** Morwen  
+**Primary Inhabitants:** Thaldrim  
+**Government Type:**   
+**Largest City-State:** Karrhold (45,000)  
+**Population:** ~160,000  
+**Symbol:** A hammer over the sea  
+**Motto:** *“The sea yields only to those who strike true.”*
+
 Drenvold is the storm-lashed homeland of the **Thaldrim**, a race of sea-dwarves whose lives are bound to both forge and tide. Carved into the cliffs and fjords of Morwen’s northeastern coast, Drenvold is a land where the sea is both master and muse. Its people have learned to temper iron with saltwater, and courage with hardship. Great **Seahearths**—half-city, half-forge—cling to the rock like barnacles of civilization, each one a testament to endurance against the roaring deep.
 
-Though proud and fiercely independent, the Thaldrim remember the ancient unity of their kind and the great voyages that once linked the far coasts of Mysthaln. Today, Drenvold stands as both a maritime power and a bastion of tradition, watching warily as the fires of the Supremacy burn ever closer beyond the mountains.
+Though proud and fiercely independent, the Thaldrim remember the ancient unity of their kind and the great voyages that once linked the far coasts of Mysthaln. Today, Drenvold stands as both a maritime power and a bastion of tradition.
 
 ---
 
@@ -15,9 +23,9 @@ Though proud and fiercely independent, the Thaldrim remember the ancient unity o
 
 Drenvold’s history begins in the **Age of Founding**, when the Thaldrim broke away from their stonebound cousins and followed the call of the sea. Legends speak of **Drenmir the Deep Forger**, who struck the ocean’s heart with his hammer and shaped the first Seahearth from the molten cliffs. From that act came both their name and their creed: *“The sea yields only to those who strike true.”*
 
-For centuries, Drenvold’s people traded across the northern waters, establishing colonies and trading halls from the Supremacy’s coast to the far isles. Their greatest colony was **Skarhold**, once a proud outpost and now a symbol of loss—taken generations ago by foreign rulers.
+For centuries, Drenvold’s people traded across the northern waters, establishing colonies and trading halls from the Supremacy’s coast to the far isles. Their greatest colony was **Skarhold**, once a proud outpost and now an independent nation.
 
-The rise of the **Supremacy** brought war to their southern shores. When the Empire’s legions sought to breach the mountains, the Drenvoldic fleets blockaded the coast and held the passes, turning their homeland into a fortress-state. Though the great war subsided, the memory of invasion never did. To this day, the Thaldrim keep watch from their storm towers, their loyalty to freedom hardened like iron in brine.
+Due to distance and the powerful Drenvold fleets, The Supremacy has never attempted to conquer Drenvold to this day. They maintain a wary peace.
 
 ---
 
@@ -35,7 +43,7 @@ Drenvold’s economy is built upon three pillars: **forging, shipbuilding, and t
 
 The Seahearths operate as independent economic centers, each specializing in different crafts—armor from Grimvein, engines from Brodun, ship hulls from Dravhild, and enchanted metalwork from Kraesund. While gold and silver exist, **iron, salt, and coral** serve as common measures of wealth.
 
-Though Drenvold trades freely with Vardessa and Njorath, relations with the Supremacy remain hostile. The mountain passes are heavily fortified, and maritime patrols regularly intercept Supremacy vessels that drift too close to their waters.
+Drenvold trades freely with Vardessa, Njorath and Vass'Kaal, also having a tenuous relationship with the Supremacy.
 
 ---
 
@@ -66,4 +74,7 @@ Art and architecture are practical yet beautiful: glowing forge halls lined with
 | **Thrunhal**    | 8,700       | Known for stonecraft and rune carving. |
 | **Morrvak**     | 8,600       | Mining hub beneath the Frostspire Peaks. |
 | **Grimvein**    | 8,400       | Renowned for steelworks and weaponry. |
-| *...and nineteen smaller towns ranging from 1,400–7,400 inhabitants.* |
+
+## Notable Locations
+
+- **Stormbarrier Range** - Huge mountain range separating Drenvold from most of the other major kingdoms.

@@ -31,11 +31,10 @@ The Solari see themselves as the true stewards of balance — guardians of the l
 
 ## Sample Names
 
-Masculine
-: Tarek, Solen, Vharis, Alun, Kareth
-
-Feminine
-: Nyra, Sael, Thirra, Olessa, Marin
-
-Surnames
-: of the Duneveil, Sandstrider, Mirageborn, Sunveil, Keeper of Wells
+| Masculine | Feminine |  Surnames       |
+|-----------|----------|-----------------|
+| Tarek     | Nyra     | of the Duneveil |
+| Solen     | Sael     | Sandstrider     |
+| Vharis    | Thirra   | Mirageborn      |
+| Alun      | Olessa   | Sunveil         |
+| Kareth    | Marin    | Keeper of Wells |

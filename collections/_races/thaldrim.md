@@ -29,11 +29,10 @@ Though they keep their distance from the Supremacy, Thaldrim ships occasionally 
 
 ## Sample Names
 
-Masculine
-: Brogan, Kaldric, Thorrin, Varn, Dorrak
-
-Feminine
-: Brynja, Kaela, Sorrin, Thala, Merra
-
-Surnames
-: Ironwake, Deephelm, Brineforge, Wavebreaker, Stormdelver
+| Masculine | Feminine |  Surnames   |
+|-----------|----------|-------------|
+| Brogan    | Brynja   | Ironwake    |
+| Kaldric   | Kaela    | Deephelm    |
+| Thorrin   | Sorrin   | Brineforge  |
+| Varn      | Thala    | Wavebreaker |
+| Dorrak    | Merra    | Stormdelver |
