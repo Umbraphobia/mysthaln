@@ -5,9 +5,17 @@ title: Njorath
 
 ![Njorath](../assets/img/njorath.jpg 'Njorath')
 
-Njorath lies along the **northern coast of Morwen**, a land of rugged cliffs, mist-shrouded forests, and iron-gray seas. Though not locked in eternal winter like Drenvold, Njorath endures **long, bitter winters** and **short, fierce summers**, shaping a people as resilient as the land they call home.  
+**Continent:** Morwen  
+**Primary Inhabitants:** Draenfyr  
+**Government Type:**   
+**Capital:** Korrveld (16,000)  
+**Population:** ~150,000  
+**Symbol:**   
+**Motto:** *“”*
 
-To the **south**, Njorath borders the **Supremacy**, whose repeated invasions have faltered against the snow and the fierce resistance of the Njorathi clans. To the **east** lies **Drenvold**, Njorath’s steadfast ally, bound by shared heritage, trade, and blood. The **Stormbarrier Range** rises along the **southeast**, a vast wall of jagged peaks the Draenfyr call **Thrym’s Teeth**, dividing the temperate lowlands from the frozen plateaus beyond.
+Njorath lies along the **northern coast of Morwen**, a land of rugged cliffs, mist-shrouded forests, and iron-gray seas. Though not locked in eternal winter like Drenvold, Njorath endures **long, bitter winters** and **short, mild summers**, shaping a people as resilient as the land they call home.  
+
+To the **south**, Njorath borders the **Supremacy**, whose repeated invasions have faltered in the winter and against the fierce resistance of the Njorathi clans. To the **east** lies **Drenvold**, Njorath’s steadfast ally, bound by shared heritage, trade, and blood. The **Stormbarrier Range** rises along the **southeast**, a vast wall of jagged peaks the Draenfyr call **Thrym’s Teeth**, dividing the temperate lowlands from the frozen plateaus beyond.
 
 ## **Geography**
 
@@ -21,7 +29,7 @@ The Njorathi are a **stoic yet passionate** people. They value endurance, honor,
 
 The Njorathi honor **ancestral spirits and the northern lights**, which they believe are the souls of heroes watching from the frozen heavens. Their songs are long and mournful, telling tales of storms, sacrifice, and the fires that endure through the cold.  
 
-Their alliance with **Drenvold** is one of mutual respect and survival — forged in centuries of shared struggle against the Supremacy and sealed in oaths beneath the aurora.
+Their alliance with **Drenvold** is one of mutual respect and survival — forged in centuries of shared struggle against the elements.
 
 ## **Economy**
 
@@ -41,7 +49,7 @@ The Njorathi military is disciplined but decentralized, drawing on the strength 
 
 Their elite warriors, the **Stormguard**, are clad in furs and mail, wielding long axes and great shields emblazoned with clan sigils. Legends say the Stormguard fight best beneath snow and thunder — the worse the weather, the stronger they become.
 
-## **Major Cities**
+## **Major Settlements**
 
 | City | Population | Notes |
 |------|-------------|-------|
@@ -50,10 +58,12 @@ Their elite warriors, the **Stormguard**, are clad in furs and mail, wielding lo
 | **Haldren** | 9,500 | Industrial hub and ironwork center. |
 | **Draskar** | 8,900 | Crossroads city for trade with Drenvold. |
 | **Tirnhold** | 8,700 | Mountain fortress guarding the southern passes. |
-| **Marhavn** | 7,900 | Seaport and fishing capital. |
-| **Velgrad** | 7,500 | Cultural and religious center; home to the Stone Choir. |
-| **Ornkaal** | 5,100 | Major smithing settlement producing armor and weaponry. |
-| **Falrek** | 4,200 | Seaport and key naval outpost. |
+
+---
+
+## Notable Locations
+
+---
 
 ## **Relations**
 

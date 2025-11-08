@@ -8,10 +8,10 @@ title: Dun’Rhael
 **Continent:** Morwen  
 **Primary Inhabitants:** Solari  
 **Government Type:**   
-**Largest City-State:** Sahrakar (21,000)  
+**Capital:** Sahrakar (21,000)  
 **Population:** ~100,000  
-**Symbol:** A hammer over the sea  
-**Motto:** *“The sea yields only to those who strike true.”*
+**Symbol:**   
+**Motto:** *“”*
 
 Dun’Rhael, the homeland of the **Solari**, is a kingdom of endless dunes, scattered oases, and sacred pilgrimage routes known as the **Bonded Paths**. It is the only landlocked nation in Morwen — a vast expanse of sunlit stone and shifting sands, bordered by the Supremacy to the north, the Ashen Marches to the west, Vardessa to the east, and Vass’Kaal to the south.  
 
@@ -79,6 +79,12 @@ Despite their serenity, the Solari are fierce in defense. Warriors bonded to des
 | **Orithra**    | 2,300       | Caravan stop and pilgrimage site dedicated to the Sun’s Mercy. |
 | **Mira’s Gate**     | 1,700       | Northern outpost marking the route toward the Supremacy frontier. |
 
+---
+
 ## Notable Locations
 
 - **Lake Thiriel** - Freshwater lake on the north eastern border with Vardessa
+
+---
+
+## Relations

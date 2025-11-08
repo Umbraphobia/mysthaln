@@ -8,7 +8,7 @@ title: Drenvold
 **Continent:** Morwen  
 **Primary Inhabitants:** Thaldrim  
 **Government Type:**   
-**Largest City-State:** Karrhold (45,000)  
+**Capital:** Karrhold (45,000)  
 **Population:** ~160,000  
 **Symbol:** A hammer over the sea  
 **Motto:** *“The sea yields only to those who strike true.”*
@@ -75,6 +75,13 @@ Art and architecture are practical yet beautiful: glowing forge halls lined with
 | **Morrvak**     | 8,600       | Mining hub beneath the Frostspire Peaks. |
 | **Grimvein**    | 8,400       | Renowned for steelworks and weaponry. |
 
+---
+
 ## Notable Locations
 
 - **Stormbarrier Range** - Huge mountain range separating Drenvold from most of the other major kingdoms.
+
+---
+
+## Relations
+

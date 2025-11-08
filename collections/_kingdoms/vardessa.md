@@ -5,6 +5,14 @@ title: Vardessa
 
 ![Vardessa - Vareth](../assets/img/vardessa.jpg 'Vareth, Capital of Vardessa')
 
+**Continent:** Morwen  
+**Primary Inhabitants:** Human  
+**Government Type:**   
+**Capital:** Vareth (23,000)  
+**Population:** ~210,000  
+**Symbol:**   
+**Motto:** *“”*
+
 Vardessa is a defiant and war-hardened nation born from rebellion — a land forged in fire and steel after breaking away from the Supremacy’s dominion. Stretching from the arid foothills of Dun’Rhael in the west to the cold shadow of Drenvold in the northeast, it stands as the shield of free peoples against the Supremacy’s advance. Divided by the towering **Stormbarrier Range**, its cities cling to mountain valleys, windswept plains, and the shores of the Vardessian coast, united by their shared determination to remain free.
 
 Though still young as a nation, Vardessa has become a symbol of resistance across Morwen. Its people — human, Thaldrim, and countless others — see themselves as builders of a future not defined by conquest or divine decree, but by hard-won liberty.
@@ -58,12 +66,24 @@ While the Supremacy sees Vardessa as a lawless state, its people view themselves
 
 ---
 
+## Major Settlements
+
+| City / Town | Population | Notes |
+|--------------|-------------|-------|
+| **Vareth** | 23,000 | Capital; fortified inland city built atop the ruins of a Supremacy outpost; center of governance and resistance. |
+| **Cair Hollow** | 21,000 | Once a Supremacy garrison, now a major military stronghold; houses the War Council of Vardessa. |
+| **Tirvale** | 20,000 | Industrial hub producing weapons and siege engines; sustained by nearby iron and coal deposits. |
+| **Eldross** | 18,000 | Cultural and political heart of the southern provinces; home to scholars and historians of the split. |
+| **Rathmoor** | 14,000 | Key agricultural region supplying the northern front; heavily fortified against Supremacy raids. |
+
+---
+
 ## **Notable Locations**
 
-- **Vareth** — The capital and heart of Vardessa’s governance, built atop the ruins of a Supremacy citadel.  
-- **Cair Hollow** — The largest fortress-city, home to the War Council and standing army.  
-- **Redhaven** — Seaport hub for trade, spies, and smuggled goods from across the eastern sea.  
 - **Pass of Marath** — Strategic mountain pass linking east and west Vardessa; heavily fortified with ancient dwarven gates.  
-- **Vaelrun** — The scholarly heart of Vardessa, preserving forbidden Supremacy texts and relics of rebellion.  
+
+---
+
+## Relations
 
 ---

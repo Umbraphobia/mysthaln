@@ -5,6 +5,14 @@ title: Skarhold
 
 ![Skarhold trail](../assets/img/skarhold.jpg 'A trail on Skarhold')
 
+**Continent:** Morwen  
+**Primary Inhabitants:** Thaldrim  
+**Government Type:**   
+**Capital:** Varrin’s Hold (18,000)  
+**Population:** ~40,000  
+**Symbol:**   
+**Motto:** *“”*
+
 Skarhold is a harsh and perilous island lying off the eastern coast of Morwen, once a proud colony of Drenvold. Today, it stands as a fractured, subjugated territory where the iron and salt of Thaldrim craftsmanship are exploited by foreign rulers. Its people live in isolation along the coasts, where the only safe ground lies between the sea and the edge of the untamed forest. The island is shrouded in storm and mist — a place where even the bravest Thaldrim tread lightly.  
 
 The inner wilds of Skarhold are said to be cursed — filled with monstrous, unbondable beasts untouched by mortal will. Few venture inland, and fewer return.
@@ -46,7 +54,7 @@ Superstitions dominate island life. Few venture out after nightfall, and every s
 
 Despite oppression, a quiet unity binds the coastal towns. In the creak of rigging and the clang of hidden forges, a low, defiant rhythm echoes — the heartbeat of a people who refuse to forget what freedom once felt like.
 
-## **Towns and Ports**
+## **Major Settlements**
 
 | City / Town | Population | Notes |
 |--------------|-------------|-------|
@@ -54,3 +62,11 @@ Despite oppression, a quiet unity binds the coastal towns. In the creak of riggi
 | **Brineshield** | 7,700 | Major shipyard and naval base; produces war galleys and trade vessels for the ruling powers. |
 | **Kaldren’s Moor** | 6,400 | Coastal mining and smelting town; exports iron and salt, home to a large Thaldrim labor force. |
 | **Saltmere** | 1,700 | Fishing hamlet and supply port; sustains much of the island’s food supply through deep-sea hauls. |
+
+---
+
+## Notable Locations
+
+---
+
+## **Relations**

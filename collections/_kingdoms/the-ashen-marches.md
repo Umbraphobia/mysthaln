@@ -77,7 +77,14 @@ Religion in the Marches centers on the **Firesouls**, elemental spirits said to 
 | **Orun's Gate** | 24,000 | Maritime forge-city known for shipbuilding. |
 | **Thurakar** | 19,000 | Center of the *Cycle of Ash* faith. |
 | **Molkarin** | 13,000 | Built in a crater; specializes in weapons and armor. |
-| *...and sixteen smaller city-states ranging from 1,000–11,000 inhabitants.* |
+
+---
+
+## Notable Locations
+
+---
+
+## **Relations**
 
 ---
 
