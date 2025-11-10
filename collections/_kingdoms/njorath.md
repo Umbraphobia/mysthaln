@@ -7,21 +7,25 @@ title: Njorath
 
 **Continent:** Morwen  
 **Primary Inhabitants:** Draenfyr  
-**Government Type:**   
+**Government Type:** Constitutional Monarchy  
 **Capital:** Korrveld (16,000)  
 **Population:** ~150,000  
-**Symbol:**   
-**Motto:** *“”*
+**Symbol:** A silver wolf’s head superimposed on a storm-black shield  
+**Motto:** *“By frost and steel we endure.”*
 
 Njorath lies along the **northern coast of Morwen**, a land of rugged cliffs, mist-shrouded forests, and iron-gray seas. Though not locked in eternal winter like Drenvold, Njorath endures **long, bitter winters** and **short, mild summers**, shaping a people as resilient as the land they call home.  
 
 To the **south**, Njorath borders the **Supremacy**, whose repeated invasions have faltered in the winter and against the fierce resistance of the Njorathi clans. To the **east** lies **Drenvold**, Njorath’s steadfast ally, bound by shared heritage, trade, and blood. The **Stormbarrier Range** rises along the **southeast**, a vast wall of jagged peaks the Draenfyr call **Thrym’s Teeth**, dividing the temperate lowlands from the frozen plateaus beyond.
+
+---
 
 ## **Geography**
 
 Njorath’s terrain is a striking mix of **pine forests, wind-swept tundra, and fjord-laden coastlines**. The northern seas are treacherous but rich with fish and trade, dotted with longboats and merchant vessels that brave the icy waters to reach distant ports.  
 
 Rivers flowing down from the Stormbarrier Range feed fertile valleys in the central plains, where most of the population resides. In winter, blizzards sweep across the land, isolating towns for weeks at a time — but when summer comes, the land bursts briefly into color, and festivals fill the streets.
+
+---
 
 ## **Culture**
 
@@ -31,11 +35,15 @@ The Njorathi honor **ancestral spirits and the northern lights**, which they bel
 
 Their alliance with **Drenvold** is one of mutual respect and survival — forged in centuries of shared struggle against the elements.
 
+---
+
 ## **Economy**
 
 Njorath’s economy thrives on **mining, timber, shipbuilding, and trade**. Iron and silver from the Stormbarrier foothills feed the forges of Ornkaal and Draskar, while Marhavn and Vaerik’s Rest serve as crucial ports for northern trade.  
 
 Despite the harsh climate, Njorathi craftsmanship is highly valued across Morwen — especially their **blacksteel blades** and **stormwood ships**, both forged to endure the elements that shaped their creators.
+
+---
 
 ## **Government**
 
@@ -43,11 +51,15 @@ Njorath is ruled by a **High King or Queen**, chosen from among the most powerfu
 
 The **Council of Blades**, an elite assembly of warriors, acts as both a military command and a guardian order, ensuring loyalty among the clans and readiness against the Supremacy’s aggression.
 
+---
+
 ## **Military**
 
 The Njorathi military is disciplined but decentralized, drawing on the strength of its **clan militias**. Every able-bodied citizen trains for defense during the long winters, and their armies are known for **ambush tactics, endurance in cold, and mastery of the terrain**.  
 
 Their elite warriors, the **Stormguard**, are clad in furs and mail, wielding long axes and great shields emblazoned with clan sigils. Legends say the Stormguard fight best beneath snow and thunder — the worse the weather, the stronger they become.
+
+---
 
 ## **Major Settlements**
 
@@ -63,6 +75,12 @@ Their elite warriors, the **Stormguard**, are clad in furs and mail, wielding lo
 
 ## Notable Locations
 
+- **Thrym’s Teeth** – a Vast wall of jagged peaks on Njorath’s southeastern boundary, divides the temperate lowlands from the frozen plateaus of Drenvold.
+- **The Obsidian Spire Fen** – A wide marshland dotted with towering black volcanic spires, where steam rises from warm springs beneath the bogs. Legends say the spires are the petrified remains of a dragon’s breath, and rune-wordsmiths often travel here to collect rare minerals for their craft.
+- **The Shattered Vale of Aelmar** – A deep valley gouged by a millennia-old cataclysm, now riddled with fissures that glow with faint blue light. The vale is haunted by the echoes of that ancient event (and by restless spirits), making it a place both of dread and pilgrimage.
+- **Stone-Rooted Forest of Vindar** – A vast evergreen woodland of ancient pines whose roots have grown around enormous boulders and stone outcrops. Within the forest lie natural amphitheatres where druids hold nighttime gatherings under luminous moss-cover. It’s part wilderness, part sacred grove.
+- **The Sunken Bastion of Helgrin** – The remains of a forgotten stronghold that now lies half-submerged in a dark inland lake. Tall towers still jut from the water, and divers explore its flooded passages for lost relics. The surface of the lake is mirror-calm, giving the impression of a ghost-fortress rising from the water.
+
 ---
 
 ## **Relations**
@@ -70,6 +88,8 @@ Their elite warriors, the **Stormguard**, are clad in furs and mail, wielding lo
 - **Allied with:** Drenvold — strong trade and mutual defense pact.  
 - **Hostile toward:** The Supremacy — historic enmity and repeated border conflicts.  
 - **Neutral toward:** Vardessa and Dun’Rhael — viewed as pragmatic neighbors rather than rivals.  
+
+---
 
 ## **Summary**
 
