@@ -3,6 +3,8 @@ layout: post
 title: More Ashen Marches Information
 ---
 
+The Ashen Marches remain one of Mysthaln’s most volatile and ambitious lands — a realm where the ground itself breathes fire, and where greatness is measured not by blood, but by what one can forge from flame.
+
 ## Full List of Cities
 
 | Population | Name | Notes / Flavor |

@@ -19,7 +19,7 @@ Though technically united under the ancient name of the Ashen Marches, the realm
 
 ---
 
-## History
+## **History**
 
 Long ago, the Ashen Marches were barren wastes left behind by an age of divine conflict. The Emberborn claim their ancestors were forged in those same fires — mortals reshaped by the heat of the earth and the breath of the volcano. Whatever the truth, the first **Forgeholds** rose beside molten rivers, their founders mastering both craft and survival in a land that demanded both.
 
@@ -27,7 +27,7 @@ Over centuries, trade and competition spurred the growth of new cities. Each bec
 
 ---
 
-## Geography
+## **Geography**
 
 Situated in the southwestern coast of **Morwen**, the Ashen Marches are a harsh, volcanic region bordered by the **The Supremacy** and **Dun'Rhael** to the north and **Vass'kaal** southwest. The land is scarred by rivers of ash, basalt cliffs, and vast fields of cooled lava that shimmer under the sun like dark glass. 
 
@@ -37,7 +37,7 @@ Sparse vegetation clings to mineral-rich soil, with hardy shrubs and heat-resist
 
 ---
 
-## Economy
+## **Economy**
 
 The Ashen Marches are one of the most **industrialized and resource-rich** regions in Mysthaln. Their forges burn day and night, powered by volcanic heat and endless ambition. The economy is driven by:
 
@@ -50,7 +50,7 @@ Each city-state guards its secrets jealously, resulting in constant innovation a
 
 ---
 
-## Demographics
+## **Demographics**
 
 Roughly **250,000 souls** call the Ashen Marches home. The majority — nearly 90% — are Emberborn, their fiery heritage well-suited to the land’s heat and hardship. The remaining population includes humans, Thaldrim traders, and a few Solari caravans who brave the northeastern passes.
 
@@ -58,7 +58,7 @@ Each city-state is self-governed, with populations ranging from small mining enc
 
 ---
 
-## Culture
+## **Culture**
 
 To the Emberborn, **fire is life** — both destroyer and creator, feared and worshiped in equal measure. Their society revolves around craftsmanship, where artistry is a form of devotion and failure is treated as a lesson written in flame. Every forge is a temple, and every smith a priest of creation.
 
@@ -68,7 +68,7 @@ Religion in the Marches centers on the **Firesouls**, elemental spirits said to 
 
 ---
 
-## Major Settlements
+## **Major Settlements**
 
 | Name | Population | Notes |
 |------|-------------|-------|
@@ -80,12 +80,21 @@ Religion in the Marches centers on the **Firesouls**, elemental spirits said to 
 
 ---
 
-## Notable Locations
+## **Notable Locations**
+
+- **The Crucible Chasm** - A vast fissure near Mount Vaelthur where rivers of molten rock flow openly through the earth’s wounds. Ancient forges carved into the chasm’s sides still burn with eternal flame — remnants of the first Emberborn citadel. It is said that only those who survive a night within its heat are worthy to bear the title of *Forge-Master*.
+- **The Glassflow Fields** - Stretching west of Draevos, these plains shimmer like a black mirror beneath the sun. The land was once consumed by a superheated eruption that fused sand and ash into sheets of glass. Strange flora have since adapted to the terrain, their crystalline leaves refracting light in haunting colors. Travelers speak of ghostly reflections moving independently within the mirrored surface.
+- **The Anvil of the Gods** - A colossal slab of basalt at the heart of the Marches, scorched smooth as if struck by divine fire. Pilgrims from every city-state gather here for the *Festival of Sparks*, igniting thousands of forges in a single night to honor creation itself. Legends claim the Anvil marks the site where the first Emberborn were shaped from molten stone.
+- **Vael’s Spine** - A jagged ridge running from Mount Vaelthur to the southern coast, composed entirely of volcanic glass and obsidian. Lightning frequently strikes its peaks, creating momentary rivers of molten fire. Miners risk the storms to harvest *stormglass* — a rare material used in high-grade weaponry and alchemical lenses.
+- **The Shattered Forge** - Once the greatest workshop in the Marches, this ruin lies half-buried beneath cooled lava flows. Its furnaces exploded during the *War of Embercrowns*, ending an age of unity among the city-states. Many scavengers seek the lost blueprints said to remain entombed within — designs for weapons powered by captured elemental fire.
 
 ---
 
 ## **Relations**
 
+- The Ashen Marches hold no formal alliances.
+
 ---
 
-The Ashen Marches remain one of Mysthaln’s most volatile and ambitious lands — a realm where the ground itself breathes fire, and where greatness is measured not by blood, but by what one can forge from flame.
+> *"I have walked among deserts where the sun burns like a forge, but nothing prepared me for the Ashen Marches — rivers of molten stone, mountains that breathe smoke, and a people who seem themselves forged from fire. Here, life is a spark daring to defy the void."*  
+> — Kaelen of Dun’Rhael, Solari Explorer

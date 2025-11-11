@@ -7,15 +7,15 @@ title: Drenvold
 
 **Continent:** Morwen  
 **Primary Inhabitants:** Thaldrim  
-**Government Type:**   
+**Government Type:** Monarchy  
 **Capital:** Karrhold (45,000)  
 **Population:** ~160,000  
 **Symbol:** A hammer over the sea  
 **Motto:** *“The sea yields only to those who strike true.”*
 
-Drenvold is the storm-lashed homeland of the **Thaldrim**, a race of sea-dwarves whose lives are bound to both forge and tide. Carved into the cliffs and fjords of Morwen’s northeastern coast, Drenvold is a land where the sea is both master and muse. Its people have learned to temper iron with saltwater, and courage with hardship. Great **Seahearths**—half-city, half-forge—cling to the rock like barnacles of civilization, each one a testament to endurance against the roaring deep.
+Drenvold is the storm-lashed homeland of the Thaldrim, a race of sea-dwarves whose lives are bound to both forge and tide. Carved into the cliffs and fjords of Morwen’s northeastern coast, Drenvold is a land where the sea is both master and muse. Its people have learned to temper iron with saltwater, and courage with hardship. Great Seahearths—half-city, half-forge—cling to the rock like barnacles of civilization, each one a testament to endurance against the roaring deep.
 
-Though proud and fiercely independent, the Thaldrim remember the ancient unity of their kind and the great voyages that once linked the far coasts of Mysthaln. Today, Drenvold stands as both a maritime power and a bastion of tradition.
+Though proud and fiercely independent, the Thaldrim recognize the authority of their High King, who unites the clans under a single crown while allowing each Seahearth autonomy in daily affairs. Today, Drenvold stands as both a maritime power and a bastion of tradition.
 
 ---
 
@@ -24,6 +24,8 @@ Though proud and fiercely independent, the Thaldrim remember the ancient unity o
 Drenvold’s history begins in the **Age of Founding**, when the Thaldrim broke away from their stonebound cousins and followed the call of the sea. Legends speak of **Drenmir the Deep Forger**, who struck the ocean’s heart with his hammer and shaped the first Seahearth from the molten cliffs. From that act came both their name and their creed: *“The sea yields only to those who strike true.”*
 
 For centuries, Drenvold’s people traded across the northern waters, establishing colonies and trading halls from the Supremacy’s coast to the far isles. Their greatest colony was **Skarhold**, once a proud outpost and now an independent nation.
+
+Over time, the clans united under the leadership of a **High King**, chosen from the strongest and most respected bloodlines of Drenvold. While the clans retain authority within their Seahearths, they owe loyalty, military service, and tribute to the crown.
 
 Due to distance and the powerful Drenvold fleets, The Supremacy has never attempted to conquer Drenvold to this day. They maintain a wary peace.
 
@@ -43,15 +45,15 @@ Drenvold’s economy is built upon three pillars: **forging, shipbuilding, and t
 
 The Seahearths operate as independent economic centers, each specializing in different crafts—armor from Grimvein, engines from Brodun, ship hulls from Dravhild, and enchanted metalwork from Kraesund. While gold and silver exist, **iron, salt, and coral** serve as common measures of wealth.
 
-Drenvold trades freely with Vardessa, Njorath and Vass'Kaal, also having a tenuous relationship with the Supremacy.
+Drenvold trades freely with Vardessa, Njorath, and Vass'Kaal, also maintaining a cautious relationship with the Supremacy.
 
 ---
 
 ## Demographics
 
-Drenvold’s population is approximately **160,000**, with **Thaldrim** making up the overwhelming majority. A small number of **Draenfyr** and **Humans** live in the larger ports, mostly as traders or scholars. The Thaldrim population is divided among 24 major settlements, with **Karrhold** as the capital and **Vandruk**, **Thrunhal**, and **Grimvein** serving as key industrial centers.
+Drenvold’s population is approximately **160,000**, with **Thaldrim** making up the overwhelming majority. A small number of **Draenfyr** and **Humans** live in the larger ports, mostly as traders or scholars.
 
-Clan identity remains central to Thaldrim life. Each clan controls part of a Seahearth, contributing both warriors and craftsmen to its upkeep. Loyalty to clan and Seahearth outweighs loyalty to king or council—but when Drenvold is threatened, its people unite under the **Deep Banner**, the symbol of Drenmir’s hammer over the sea.
+Clan identity remains central to Thaldrim life, but each clan now **swears fealty to the High King**. Clans continue to control portions of their Seahearths, providing warriors and craftsmen, but ultimate authority rests with the monarchy. In times of crisis, the High King can command all clans to unite under the **Deep Banner**, the symbol of Drenmir’s hammer over the sea.
 
 ---
 
@@ -79,9 +81,21 @@ Art and architecture are practical yet beautiful: glowing forge halls lined with
 
 ## Notable Locations
 
-- **Stormbarrier Range** - Huge mountain range separating Drenvold from most of the other major kingdoms.
+- **Stormbarrier Range** - Huge mountain range separating Drenvold from most of the other major kingdoms.  
+- **The Deep Forge Caverns** - Immense volcanic tunnels beneath the cliffs where Thaldrim smiths craft legendary sea-tempered steel. The heat is constant, and the sound of hammering echoes like thunder through the stone.  
+- **The Tidal Hollows** - Network of narrow fjords along the northern coast where the sea swirls unpredictably. Known for treacherous currents, it is also a sacred site for Thaldrim rites before voyages.  
+- **The Abyssal Lighthouse** - A colossal tower perched on a cliff at the edge of the northern waters. Its beacon of blue flame is said to guide only the worthy and repel sea spirits of ill omen.  
+- **The Hammerwake Stone Circle** - Ancient monoliths near Karrhold where the first Deep Forger is said to have struck the ocean. Ceremonies honoring craftsmanship and the sea are performed here each year.
 
 ---
 
 ## Relations
 
+- **Allied with:** Njorath — long-standing friendship and mutual defense pact across the northern seas.  
+- **Hostile toward:** None openly — Drenvold values its independence and avoids entanglement in mainland conflicts.  
+- **Neutral toward:** The Supremacy, Vardessa, Skarhold, Dun’Rhael, and the Ashen Marches — maintains cautious trade and observation, keeping the Thaldrim way of life separate from continental politics.
+
+---
+
+> *"Strike the stone and test the tide; only those who endure both shall shape the world."*  
+> — Drenmir the Deep Forger

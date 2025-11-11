@@ -7,11 +7,11 @@ title: Dun’Rhael
 
 **Continent:** Morwen  
 **Primary Inhabitants:** Solari  
-**Government Type:**   
+**Government Type:** Confederation  
 **Capital:** Sahrakar (21,000)  
 **Population:** ~100,000  
-**Symbol:**   
-**Motto:** *“”*
+**Symbol:** A golden sun partially eclipsed by a silver crescent, overlaid on a stylized desert dune  
+**Motto:** *“Through sun and sand, we endure.”*
 
 Dun’Rhael, the homeland of the **Solari**, is a kingdom of endless dunes, scattered oases, and sacred pilgrimage routes known as the **Bonded Paths**. It is the only landlocked nation in Morwen — a vast expanse of sunlit stone and shifting sands, bordered by the Supremacy to the north, the Ashen Marches to the west, Vardessa to the east, and Vass’Kaal to the south.  
 
@@ -83,8 +83,21 @@ Despite their serenity, the Solari are fierce in defense. Warriors bonded to des
 
 ## Notable Locations
 
-- **Lake Thiriel** - Freshwater lake on the north eastern border with Vardessa
+- **Lake Thiriel** - A vast freshwater lake along Dun’Rhael’s northeastern border with Vardessa. Its mirror-like surface reflects the sun at dawn, creating the illusion of twin suns. Pilgrims come to pray and cleanse themselves, believing the lake holds the soul of the desert.  
+- **The Blinding Dunes** - Endless sun-scorched dunes stretching across northern Dun’Rhael. Travelers speak of shifting sands that erase tracks overnight, mirages that confuse the unwary, and winds that carry the whispers of long-dead spirits.  
+- **Sunspire Oasis** - A hidden oasis crowned by a natural sandstone spire, sacred to the Solari. Water flows year-round despite the arid surroundings, and ceremonies are held here to honor the Cycle of the Sun.  
+- **The Glassed Barrens** - A desolate stretch of desert where the sand has fused into smooth, reflective glass under intense heat. Few dare cross it, as the glare can blind and the ground crackle underfoot. It is said spirits of ancient Solari ancestors wander the glass at night.  
+- **The Mirage Wall** - A series of rocky outcrops near the southern dunes that create optical illusions at sunrise and sunset. Traders and pilgrims alike use it as a navigation point, but some claim the wall moves when no one is watching, guarding hidden wells and sacred relics.
 
 ---
 
 ## Relations
+
+- **Allied with:** None — Dun’Rhael values independence above all, relying on the desert itself as protection rather than formal alliances.  
+- **Hostile toward:** The Supremacy — centuries of border skirmishes and attempted invasions have left deep mistrust.  
+- **Neutral toward:** Vardessa, Vass’Kaal, Ashen Marches, and Drenvold — relations are pragmatic and primarily limited to trade along the Bonded Paths; diplomacy is cautious and situational.
+
+---
+
+> *"The sun watches all, yet it favors none. We endure, we protect, and in the light of our perseverance, the desert itself will testify to our strength."*  
+> — Councilor Talisar of the Solar Council

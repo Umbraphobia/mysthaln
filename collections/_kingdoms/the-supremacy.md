@@ -81,6 +81,12 @@ While outsiders see only tyranny, the people of the Supremacy see purpose. To th
 
 ## Notable Locations
 
+- **The Ascendant Plateau** - A sprawling highland in the northern heart of the Supremacy, where winds whip across the plains and granite cliffs catch the first light of dawn. It serves as a natural fortress and site of annual pilgrimages to honor the Oracle.  
+- **Sanctum of the First Oracle** - A towering temple complex near Vaelion, believed to be built on the site where the first Oracle received the “Voice Beyond Flame.” Pilgrims from across the Supremacy journey here to seek visions and blessings.  
+- **The Obsidian Expanse** - A black volcanic desert south of Vaelion, dotted with cooled lava flows and basalt formations. Rare minerals draw alchemists and prospectors, though the harsh environment tests even the hardiest of travelers.  
+- **The Flamebound Spires** - A cluster of towering rock formations near the eastern border, shaped like jagged pillars of fire-scorched stone. Pilgrims often climb the spires during festivals, believing the rocks hold the essence of divine fire.  
+- **The Whispering Ravine** - A narrow, labyrinthine canyon in the western highlands where wind passing through cracks produces eerie, musical tones. It is both feared and revered, said to carry the Oracle’s messages to those patient enough to listen.
+
 ---
 
 ## **Relations**

@@ -11,11 +11,23 @@ title: Njorath
 **Capital:** Korrveld (16,000)  
 **Population:** ~150,000  
 **Symbol:** A silver wolf’s head superimposed on a storm-black shield  
-**Motto:** *“By frost and steel we endure.”*
+**Motto:** *“The south conquers stone, but never storm.”*
 
 Njorath lies along the **northern coast of Morwen**, a land of rugged cliffs, mist-shrouded forests, and iron-gray seas. Though not locked in eternal winter like Drenvold, Njorath endures **long, bitter winters** and **short, mild summers**, shaping a people as resilient as the land they call home.  
 
 To the **south**, Njorath borders the **Supremacy**, whose repeated invasions have faltered in the winter and against the fierce resistance of the Njorathi clans. To the **east** lies **Drenvold**, Njorath’s steadfast ally, bound by shared heritage, trade, and blood. The **Stormbarrier Range** rises along the **southeast**, a vast wall of jagged peaks the Draenfyr call **Thrym’s Teeth**, dividing the temperate lowlands from the frozen plateaus beyond.
+
+## **History**
+
+The history of **Njorath** is a saga of endurance — the story of a people who carved civilization from frost and stone. The Draenfyr trace their lineage to the **First Exodus**, when their ancestors fled the southern conquests of the early Supremacy and sought refuge beyond the Stormbarrier Range. There, amid endless snow and roaring seas, they found a harsh but unclaimed land — and made it their own.  
+
+In its earliest age, Njorath was a realm of scattered clans, each led by a **War-Chieftain** who ruled from hillforts and longhalls. The clans warred often, not for conquest, but for honor and survival. These feuds continued until the **Gathering of Korrveld**, when the clans united to resist the Supremacy’s first northern invasion. Under **Queen Halra the Storm-Wrought**, they forged the **High Council** and crowned their first High Monarch — a symbol of unity against southern tyranny.
+
+For centuries, Njorath has endured the Supremacy’s ambition. Armies have marched north across the passes only to be buried beneath snow and silence. The Draenfyr say, *“The south conquers stone, but never storm.”* Their victories, though hard-won, have made Njorath both proud and wary — a nation that trusts no peace bought with submission.
+
+In more recent years, Njorath has turned toward diplomacy with **Drenvold**, strengthening its ports and sharing its craft and metalwork in exchange for grain and goods. The two nations’ alliance is among the oldest and strongest in Morwen. Yet the threat of the Supremacy looms eternal, and the Njorathi know that one day the legions will march again.  
+
+When that day comes, the north will be ready — as it always has been.
 
 ---
 
@@ -27,16 +39,6 @@ Rivers flowing down from the Stormbarrier Range feed fertile valleys in the cent
 
 ---
 
-## **Culture**
-
-The Njorathi are a **stoic yet passionate** people. They value endurance, honor, and kinship — not in words, but in deeds. Each settlement is ruled by a **Clanlord**, and the clans together form the **High Council**, which meets in the capital, **Korrveld**, to decide matters of war and law.  
-
-The Njorathi honor **ancestral spirits and the northern lights**, which they believe are the souls of heroes watching from the frozen heavens. Their songs are long and mournful, telling tales of storms, sacrifice, and the fires that endure through the cold.  
-
-Their alliance with **Drenvold** is one of mutual respect and survival — forged in centuries of shared struggle against the elements.
-
----
-
 ## **Economy**
 
 Njorath’s economy thrives on **mining, timber, shipbuilding, and trade**. Iron and silver from the Stormbarrier foothills feed the forges of Ornkaal and Draskar, while Marhavn and Vaerik’s Rest serve as crucial ports for northern trade.  
@@ -45,19 +47,23 @@ Despite the harsh climate, Njorathi craftsmanship is highly valued across Morwen
 
 ---
 
-## **Government**
+## **Demographics**
 
-Njorath is ruled by a **High King or Queen**, chosen from among the most powerful Clanlords by the High Council. While the title carries great prestige, true power is shared between the crown and the council — a balance that has kept Njorath united through generations of hardship.  
+Njorath’s population of roughly **150,000** is composed primarily of **Draenfyr** (about 80%), with minorities of **Humans** (10%), **Thaldrim** (5%), and other races (5%) — including small enclaves of Solari traders who endure the cold for profit or purpose.  
 
-The **Council of Blades**, an elite assembly of warriors, acts as both a military command and a guardian order, ensuring loyalty among the clans and readiness against the Supremacy’s aggression.
+Most Njorathi live along the **coastal fjords and river valleys**, where fishing, trade, and shipbuilding sustain year-round life. The inland settlements are sparse and hardy, built around mines, forests, and natural hot springs that provide warmth through winter’s grip.  
+
+The average Njorathi family belongs to a **clan**, a social and political unit that defines one’s place in society. Clans range from vast noble houses with storied bloodlines to humble fishing kin-groups bound by shared hearths. Though the monarchy and High Council govern the realm, daily life remains deeply clan-centered, and loyalty to kin often outweighs allegiance to crown or creed.
 
 ---
 
-## **Military**
+## **Culture**
 
-The Njorathi military is disciplined but decentralized, drawing on the strength of its **clan militias**. Every able-bodied citizen trains for defense during the long winters, and their armies are known for **ambush tactics, endurance in cold, and mastery of the terrain**.  
+The Njorathi are a **stoic yet passionate** people. They value endurance, honor, and kinship — not in words, but in deeds. Each settlement is ruled by a **Clanlord**, and the clans together form the **High Council**, which meets in the capital, **Korrveld**, to decide matters of war and law.  
 
-Their elite warriors, the **Stormguard**, are clad in furs and mail, wielding long axes and great shields emblazoned with clan sigils. Legends say the Stormguard fight best beneath snow and thunder — the worse the weather, the stronger they become.
+The Njorathi honor **ancestral spirits and the northern lights**, which they believe are the souls of heroes watching from the frozen heavens. Their songs are long and mournful, telling tales of storms, sacrifice, and the fires that endure through the cold.  
+
+Their alliance with **Drenvold** is one of mutual respect and survival — forged in centuries of shared struggle against the elements.
 
 ---
 
@@ -73,7 +79,7 @@ Their elite warriors, the **Stormguard**, are clad in furs and mail, wielding lo
 
 ---
 
-## Notable Locations
+## **Notable Locations**
 
 - **Thrym’s Teeth** – a Vast wall of jagged peaks on Njorath’s southeastern boundary, divides the temperate lowlands from the frozen plateaus of Drenvold.
 - **The Obsidian Spire Fen** – A wide marshland dotted with towering black volcanic spires, where steam rises from warm springs beneath the bogs. Legends say the spires are the petrified remains of a dragon’s breath, and rune-wordsmiths often travel here to collect rare minerals for their craft.
@@ -91,8 +97,6 @@ Their elite warriors, the **Stormguard**, are clad in furs and mail, wielding lo
 
 ---
 
-## **Summary**
-
-Njorath stands as the **northern shield of Morwen**, a land forged in cold and defiance. Where the Supremacy’s legions falter, the Njorathi endure — bound by frost, faith, and an unyielding will to survive.  
-In the eyes of the south, it is a barren frontier.  
-In the hearts of its people, it is a kingdom of fire and ice — eternal, unbroken, and free.
+> *“Let the south build empires of stone and gold — we are forged in storm and silence.  
+> When their banners rot in the rain, ours will still fly against the wind.”*  
+> — **Queen Halra the Storm-Wrought**, High Queen of Njorath

@@ -70,12 +70,12 @@ Despite isolation, a quiet unity binds the coastal towns. In the creak of riggin
 
 ---
 
-## Notable Locations
+## **Notable Locations**
 
 - **The Heartwood** - A vast and ancient forest said to be the living soul of Skarhold itself. No map charts its true boundaries. Trees here are impossibly tall, their roots twisted into shapes resembling bones. The few who ever returned speak of voices whispering in the wind — and of the forest moving when unobserved.
 - **The Shattered Forge** - Once the greatest Thaldrim forge outside Drenvold, now a ruin overrun by the wilds. Its smelters burned for centuries before the final storm drowned the valley in molten ore. Pilgrims still visit to leave offerings to Drenmir, the Deep Forger. On some nights, the ruins glow faintly with blue fire.
 - **The Black Strand** - A beach of jet-colored sand on the southern coast where strange metal fragments wash ashore after great storms. Thaldrim scholars believe the shards are remnants of fallen stars, while locals insist they are scales shed by the island’s ancient beasts.
-- **Gravemount Keep** | A ruined fortress atop a cliff overlooking the western sea, now used as a beacon post for passing ships. It was once Drenvold’s colonial stronghold, abandoned after an entire garrison vanished overnight. The locals light its tower flame each solstice, said to keep the dead from wandering.
+- **Gravemount Keep** A ruined fortress atop a cliff overlooking the western sea, now used as a beacon post for passing ships. It was once Drenvold’s colonial stronghold, abandoned after an entire garrison vanished overnight. The locals light its tower flame each solstice, said to keep the dead from wandering.
 - **The Bleakroad** - The only land route connecting Skarhold’s coastal towns — a narrow, perilous trail skirting the coast. Constantly threatened by rockslides, beasts, and storms, it is less a road and more a scar carved by centuries of desperate travelers. Ancient mile-markers of black stone guide the way, etched with runes that glow faintly when danger nears. Few walk the Bleakroad without leaving offerings at its wayshrines — and fewer still make the journey twice.
 
 
@@ -86,3 +86,8 @@ Despite isolation, a quiet unity binds the coastal towns. In the creak of riggin
 - **Allied with:** None — Skarhold is fiercely independent and suspicious of all mainland powers.  
 - **Hostile toward:** Drenvold — old grudges remain over abandoned colonial ambitions and lost resources.  
 - **Neutral toward:** Vardessa, Dun’Rhael, Ashen Marches, and the Supremacy — contact is limited mostly to trade and cautious observation; the island’s isolation and dangers keep mainland powers at bay.  
+
+---
+
+> *"I’ve struck stone and sailed the black waves, yet the Heartwood takes more than a hammer can measure. It whispers in roots and shadows… I left, but part of me lingers where the trees have teeth."*  
+> — Brogan Ironwake, Thaldrim Survivor

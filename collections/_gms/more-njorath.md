@@ -3,9 +3,31 @@ layout: post
 title: More Njorath Information
 ---
 
-## Full List of Cities
+## **Summary**
 
-# **Cities of Njorath**
+Njorath stands as the **northern shield of Morwen**, a land forged in cold and defiance. Where the Supremacy’s legions falter, the Njorathi endure — bound by frost, faith, and an unyielding will to survive.  
+In the eyes of the south, it is a barren frontier.  
+In the hearts of its people, it is a kingdom of fire and ice — eternal, unbroken, and free.
+
+---
+
+## **Government**
+
+Njorath is ruled by a **High King or Queen**, chosen from among the most powerful Clanlords by the High Council. While the title carries great prestige, true power is shared between the crown and the council — a balance that has kept Njorath united through generations of hardship.  
+
+The **Council of Blades**, an elite assembly of warriors, acts as both a military command and a guardian order, ensuring loyalty among the clans and readiness against the Supremacy’s aggression.
+
+---
+
+## **Military**
+
+The Njorathi military is disciplined but decentralized, drawing on the strength of its **clan militias**. Every able-bodied citizen trains for defense during the long winters, and their armies are known for **ambush tactics, endurance in cold, and mastery of the terrain**.  
+
+Their elite warriors, the **Stormguard**, are clad in furs and mail, wielding long axes and great shields emblazoned with clan sigils. Legends say the Stormguard fight best beneath snow and thunder — the worse the weather, the stronger they become.
+
+---
+
+## **Cities of Njorath**
 
 | City Name | Population | Notes |
 |------------|-------------|-------|
