@@ -8,4 +8,4 @@ permalink: /kingdoms/
 - [{{kingdom.title}}](..{{ kingdom.url}})
 {% endfor %}
 
-![Mysthaln Map](../assets/img/mysthaln-map.png 'A map of Mysthaln')
+![The Stormbarrier Range](../assets/img/stormbarrier-range.jpg 'Ruined Vardessian outpost on the Stormbarrier range')
