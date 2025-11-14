@@ -7,11 +7,11 @@ title: Vass’kaal
 
 **Continent:** Morwen  
 **Primary Inhabitants:** Ssil'ka  
-**Government Type:**   
+**Government Type:** Oligarchy  
 **Capital:** Ssa’Ruun (25,000)  
 **Population:** ~200,000  
-**Symbol:**   
-**Motto:** *“”*
+**Symbol:** A coiled serpent spiraling inward  
+**Motto:** *“All life turns within the Coil.”*
 
 Vass’Kaal is the ancient and enigmatic homeland of the Ssil’ka, a jungle-bound race of scaled folk who thrive in harmony with the dense, living forests of southeastern Morwen. The nation stretches from the foothills of the Ashen Marches and Dun’Rhael in the northwest to the eastern coasts and river deltas bordering Vardessa. Its southern waters encompass a small, forested island that serves as a refuge and training ground for bonded pairs.  
 
@@ -69,15 +69,39 @@ While aggressive diplomacy is rare, the Ssil’ka can unleash devastating defens
 | **Hisskaar** | 18,000 | Inland trade city and spiritual center where the Ssil’ka shamans commune with the jungle spirits. Known for its great ziggurat covered in glowing moss. |
 | **Vash’tel** | 17,000 | Industrial hub deep within the tropical interior. Ironwood and stone are shaped here into the towering architecture found throughout Vass’Kaal. |
 | **Ssil’thar** | 14,000 | Jungle city built into cliffs above a mist-filled gorge. Famous for its venom brewers and alchemists. |
+| **Kaassha** | 13,000 | River city known for breeding giant amphibians and scaled beasts that serve as steeds and guardians. |
 
 ---
 
 ## **Notable Locations**
 
 - **Southern Island Sanctuary** — Sacred island used for training young bonded pairs and protected rites of passage.  
+- **Coilheart Basin** — A vast sacred wetland considered the spiritual center of the Great Coil. Bioluminescent reeds and ancient serpent totems mark where the jungle’s spirit is said to have first stirred.  
+- **Temple of Ssa’Vora** — A vine-grown temple dedicated to renewal and spiritual guidance. Its living “scale tapestry” shifts patterns to reveal omens interpreted by the Scale Council.  
+- **The Verdant Maw** — A colossal sinkhole descending into a subterranean jungle illuminated by glowing fungi. This dangerous realm hosts rare reptilian species and is protected by elite jungle wardens.  
+- **The Shrouded Causeway** — A mist-covered arboreal road connecting several major cities. Formed from shaped living trees, it serves as both a trade route and a defensive network that can be sealed by the forest itself.  
 
 ---
 
-## Relations
+## **Relations**
+
+### **Allies**
+
+- **Skarhold** — The Ssil’ka value Skarhold’s ancient forests and the mysteries within. Shared reverence for nature has cultivated a rare, genuine alliance.
+
+### **Enemies**
+
+- **The Ashen Marches** — Emberborn attempts to burn jungle territory throughout history have sparked enduring hostility. Border clashes and scorched incursions keep tensions high.
+
+### **Neutral**
+
+- **Drenvold** — A distant maritime nation with which Vass’Kaal maintains limited but steady sea-based trade.  
+- **Dun’Rhael** — Though bordering nations, their cultures clash deeply. Mutual respect exists, but understanding does not.  
+- **Njorath** — Too far and too isolated for meaningful contact; the two have no ongoing relations.  
+- **Supremacy** — Geographic and political distance results in minimal interaction; neither nation prioritizes closer ties.  
+- **Vardessa** — Cordial trade flows through coastal routes, fostering polite but shallow diplomatic relations.
 
 ---
+
+> "Ssee the treesss curl, feel the watersss coil — all life bends to the rhythm of the Great Coil. Walk lightly, vissitor, or the jungle will remind you where you belong."  
+> — Ssil’ka elder of Ssa’Ruun
