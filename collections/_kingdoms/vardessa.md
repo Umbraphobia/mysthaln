@@ -50,7 +50,7 @@ Agriculture thrives in the western plains, while mining dominates the east. Trad
 Vardessa’s population reflects its origins as a land of exiles and rebels.  
 - **50% Human** — the largest population, descended from Supremacy settlers and freedom-born citizens.  
 - **25% Thaldrim** — sailors, smiths, and builders who aided the rebellion and remain influential in naval and industrial sectors.  
-- **25% Other Races** — Solari, Draenfyr, and Emberborn refugees who fled Supremacy persecution, finding freedom in Vardessa’s ranks.
+- **25% Other Races** — Solari, Iskaryn, and Emberborn refugees who fled Supremacy persecution, finding freedom in Vardessa’s ranks.
 
 Cities are heavily fortified, with populations concentrated near trade routes and mining centers. Rural areas tend to be sparse, often abandoned during wartime or relocated to fortified keeps.
 

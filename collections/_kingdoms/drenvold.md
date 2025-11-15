@@ -58,7 +58,7 @@ Thaldrim wealth is measured as often in **iron, salt, coral, and crew-oaths** as
 
 ## **Demographics**
 
-Of Drenvold’s ~160,000 people, **Thaldrim** make up the vast majority. Small communities of Humans and Draenfyr dwell in the larger ports as traders, scribes, or shipwrights.
+Of Drenvold’s ~160,000 people, **Thaldrim** make up the vast majority. Small communities of Humans and Iskaryn dwell in the larger ports as traders, scribes, or shipwrights.
 
 Society is built around **Crews**, kinbound groups led by a **Captain-Smith** who commands both forge and warship. Each Crew pledges allegiance to a specific Seahearth and, by extension, to the High Thane. During times of great danger, all Crews assemble beneath the **Deep Banner**, the ancient hammer-and-wave sigil of Drenmir.
 

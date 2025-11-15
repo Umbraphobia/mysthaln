@@ -6,7 +6,7 @@ title: Njorath
 ![Njorath](../assets/img/njorath.jpg 'Njorath')
 
 **Continent:** Morwen  
-**Primary Inhabitants:** Draenfyr  
+**Primary Inhabitants:** Iskaryn  
 **Government Type:** Constitutional Monarchy  
 **Capital:** Korrveld (16,000)  
 **Population:** ~150,000  
@@ -15,15 +15,15 @@ title: Njorath
 
 Njorath lies along the **northern coast of Morwen**, a land of rugged cliffs, mist-shrouded forests, and iron-gray seas. Though not locked in eternal winter like Drenvold, Njorath endures **long, bitter winters** and **short, mild summers**, shaping a people as resilient as the land they call home.  
 
-To the **south**, Njorath borders the **Supremacy**, whose repeated invasions have faltered in the winter and against the fierce resistance of the Njorathi clans. To the **east** lies **Drenvold**, Njorath’s steadfast ally, bound by shared heritage, trade, and blood. The **Stormbarrier Range** rises along the **southeast**, a vast wall of jagged peaks the Draenfyr call **Thrym’s Teeth**, dividing the temperate lowlands from the frozen plateaus beyond.
+To the **south**, Njorath borders the **Supremacy**, whose repeated invasions have faltered in the winter and against the fierce resistance of the Njorathi clans. To the **east** lies **Drenvold**, Njorath’s steadfast ally, bound by shared heritage, trade, and blood. The **Stormbarrier Range** rises along the **southeast**, a vast wall of jagged peaks the Iskaryn call **Thrym’s Teeth**, dividing the temperate lowlands from the frozen plateaus beyond.
 
 ## **History**
 
-The history of **Njorath** is a saga of endurance — the story of a people who carved civilization from frost and stone. The Draenfyr trace their lineage to the **First Exodus**, when their ancestors fled the southern conquests of the early Supremacy and sought refuge beyond the Stormbarrier Range. There, amid endless snow and roaring seas, they found a harsh but unclaimed land — and made it their own.  
+The history of **Njorath** is a saga of endurance — the story of a people who carved civilization from frost and stone. The Iskaryn trace their lineage to the **First Exodus**, when their ancestors fled the southern conquests of the early Supremacy and sought refuge beyond the Stormbarrier Range. There, amid endless snow and roaring seas, they found a harsh but unclaimed land — and made it their own.  
 
 In its earliest age, Njorath was a realm of scattered clans, each led by a **War-Chieftain** who ruled from hillforts and longhalls. The clans warred often, not for conquest, but for honor and survival. These feuds continued until the **Gathering of Korrveld**, when the clans united to resist the Supremacy’s first northern invasion. Under **Queen Halra the Storm-Wrought**, they forged the **High Council** and crowned their first High Monarch — a symbol of unity against southern tyranny.
 
-For centuries, Njorath has endured the Supremacy’s ambition. Armies have marched north across the passes only to be buried beneath snow and silence. The Draenfyr say, *“The south conquers stone, but never storm.”* Their victories, though hard-won, have made Njorath both proud and wary — a nation that trusts no peace bought with submission.
+For centuries, Njorath has endured the Supremacy’s ambition. Armies have marched north across the passes only to be buried beneath snow and silence. The Iskaryn say, *“The south conquers stone, but never storm.”* Their victories, though hard-won, have made Njorath both proud and wary — a nation that trusts no peace bought with submission.
 
 In more recent years, Njorath has turned toward diplomacy with **Drenvold**, strengthening its ports and sharing its craft and metalwork in exchange for grain and goods. The two nations’ alliance is among the oldest and strongest in Morwen. Yet the threat of the Supremacy looms eternal, and the Njorathi know that one day the legions will march again.  
 
@@ -49,7 +49,7 @@ Despite the harsh climate, Njorathi craftsmanship is highly valued across Morwen
 
 ## **Demographics**
 
-Njorath’s population of roughly **150,000** is composed primarily of **Draenfyr** (about 80%), with minorities of **Humans** (10%), **Thaldrim** (5%), and other races (5%) — including small enclaves of Solari traders who endure the cold for profit or purpose.  
+Njorath’s population of roughly **150,000** is composed primarily of **Iskaryn** (about 80%), with minorities of **Humans** (10%), **Thaldrim** (5%), and other races (5%) — including small enclaves of Solari traders who endure the cold for profit or purpose.  
 
 Most Njorathi live along the **coastal fjords and river valleys**, where fishing, trade, and shipbuilding sustain year-round life. The inland settlements are sparse and hardy, built around mines, forests, and natural hot springs that provide warmth through winter’s grip.  
 

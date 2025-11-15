@@ -28,7 +28,7 @@ title: More Supremacy Information
 | **Thornbay** | 5,500 | Seaport | A bleak, wind-battered port renowned for its shipwrights and grim, loyal sailors. |
 | **Cylros** | 5,400 |  | A city of glassmakers and mirrorwrights, rumored to harbor spies who can see through reflections. |
 | **Durnvale** | 5,200 |  | A valley settlement nestled in fertile farmland, famed for its vineyards and deep red wines. |
-| **Greymark** | 3,600 |  | A small fortress-town guarding the northern frontier, perpetually on alert for Draenfyr incursions. |
+| **Greymark** | 3,600 |  | A small fortress-town guarding the northern frontier, perpetually on alert for Iskaryn incursions. |
 | **Esthal** | 3,400 |  | Once a monastery, now a military outpost devoted to training zealot-priests for the Supreme Order. |
 | **Ilyssar** | 3,200 |  | A settlement built around an ancient obelisk said to predate the Supremacy itself. |
 | **Drelth** | 2,600 |  | A mining town in the mountains where laborers work under harsh rule and watchful guards. |
