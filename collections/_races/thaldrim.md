@@ -9,23 +9,27 @@ title: Thaldrim
 - Resistance: Moisture
 - Weakness: Drought
 
-The Thaldrim are a race of dwarves who turned their craft from stone to sea. Separated from the rest of the world by towering mountains, they carved harbors into the cliffs of the northeast coast and built vast ship-halls that merge forge and dock into one. Where other dwarves dig deep, the Thaldrim sail far — their strength lies in the mastery of both hammer and hull.
+The Thaldrim are a race of dwarves who traded mountain halls for crashing waves and open horizons. Hemmed in by colossal peaks to the west, they carved their homes into the sea-facing cliffs of the northeast and shaped a culture born from storm and stone. Their ship-halls echo with the chants of skald-smiths, and their long-keel vessels prowl the cold northern waters with equal parts curiosity, pride, and ferocity. Where other dwarves delve downward, the Thaldrim surge outward — explorers, raiders, traders, and storm-singers.
 
 ## Personality & Behavior
 
-Thaldrim are bold, loud-hearted, and stubbornly free. They love the roar of storms as much as the clang of steel, finding kinship in struggle and laughter in danger. Among strangers they can be boisterous or suspicious by turns, but once trust is forged, they hold it like an iron bond. To break one’s word among the Thaldrim is a crime greater than theft.
+Thaldrim spirits burn hot as forge-fire and roll wild as the surf. They admire courage above all things — whether in battle, voyage, or oath. Feasting, boasting, friendly brawls, and storm-songs are central to their way of life. They value a good story as much as a good blade, and a warrior who cannot sing is pitied almost as much as one who cannot fight.
+
+To break an oath is to break oneself — the Thaldrim hold honor tighter than iron. Yet they are no grim zealots; they laugh loud, forgive rarely, and fight fiercely for kin and crew.
 
 ## Appearance
 
-Thaldrim are broad and weathered, with wind-roughened skin and thick braids bound in salt-stiffened cords. Their beards often carry tokens from the sea — shells, beads, bits of polished driftglass. Eye colors tend toward sea-gray, deep green, or storm blue. Their armor is built for mobility on deck, reinforced with whale bone, brass, and hardened leather.
+Thaldrim have the rugged look of those who live close to the wind and waves. Their hair and beards grow thick and are woven into heavy braids tied with metal rings, carved beads, bits of coral, or charms shaped like runes. Many ink their skin with swirling blue patterns representing storms survived, voyages completed, or ancestors honored.
+
+Their armor is practical but ornate: leather and mail reinforced with steel plates etched in knotwork, often paired with heavy cloaks of seal-hide or wave-patterned wool.
 
 ## Culture
 
-The Thaldrim are known for dwelling in colossal Seahearths — vast cliff-cities carved into the stone and extending deep beneath the surf. Each Seahearth is anchored around a natural bay or hidden inlet, where their longships rest in towering drydocks of iron and oak. Within, forge-fires mingle with the smell of salt and oil, and the steady rhythm of hammers echoes like waves against rock. Every Seahearth is both a port and a forge — living proof that to the Thaldrim, the sea is not a barrier, but a home.
+Thaldrim dwell in mighty **Seahearths**, which rise like fortress-longhouses from the cliff faces. These are places of roaring hearths, hall feasts, and echoing passages drilled into the coast’s ancient rock. Each Seahearth shelters a network of drydocks, boathouses, and forge-piers where smiths chant rhythmic work-songs as they hammer iron, bronze, and whalebone into tools, weapons, and the prows of longships.
 
-They revere Drenmir, the Deep Forger, a sea god said to shape the world’s currents with his hammer. Offerings to Drenmir are cast into the waves before each voyage — a token of iron or a drop of blood, depending on the voyage’s danger.
+Thaldrim society is organized into **Crews** — kinbound companies led by a **Captain-Smith**, a chieftain whose authority comes from mastery of both warcraft and craftwork. Each Crew claims a flagship and a set of ancestral runes that guide their voyages.
 
-Though they keep their distance from the Supremacy, Thaldrim ships occasionally appear in southern ports, trading rare metals and deep-sea pearls. Many whisper that they are watching the growing power of the Supremacy with wary eyes, preparing their fleets for darker tides.
+They honor **Drenmir the Deep Forger**, whom they believe tempers both the sea and the soul. Before voyages, Thaldrim perform the **Wave Oath**, touching their weapons to the tide while chanting blessings for strength, fury, and return.
 
 ## Sample Names
 

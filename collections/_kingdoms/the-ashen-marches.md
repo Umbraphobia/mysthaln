@@ -92,7 +92,7 @@ Religion in the Marches centers on the **Firesouls**, elemental spirits said to 
 
 ## **Relations**
 
-- The Ashen Marches hold no formal alliances.
+- Because of the City-State structure, The Ashen Marches do not have relations as a whole to other countries.
 
 ---
 

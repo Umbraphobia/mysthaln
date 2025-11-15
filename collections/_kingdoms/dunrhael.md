@@ -93,9 +93,21 @@ Despite their serenity, the Solari are fierce in defense. Warriors bonded to des
 
 ## Relations
 
-- **Allied with:** None — Dun’Rhael values independence above all, relying on the desert itself as protection rather than formal alliances.  
-- **Hostile toward:** The Supremacy — centuries of border skirmishes and attempted invasions have left deep mistrust.  
-- **Neutral toward:** Vardessa, Vass’Kaal, Ashen Marches, and Drenvold — relations are pragmatic and primarily limited to trade along the Bonded Paths; diplomacy is cautious and situational.
+### Allies
+
+- **Vardessa** - defense pact, united by a common enemy: The Supremacy.  
+- **The Ashen Marches** — Dun'Rhael considers the Marches to be a friend, they have good trading relationships with many of the bordering City-Stats.
+
+### Enemies
+
+- **The Supremacy** — centuries of border skirmishes and attempted invasions have left deep mistrust.  
+
+### Neutral
+
+- **Skarhold** — Without access to the sea, Dun'Rhael has no contact with Skarhold.  
+- **Vass’Kaal** — Cultural differences stimy any good relations between these two nations.  
+- **Drenvold** - No real contact between these two nations.  
+- **Njorath** - Dun'Rhael considers the Njorathi to be distant cousins, but the distance between the nations makes for little contact.
 
 ---
 

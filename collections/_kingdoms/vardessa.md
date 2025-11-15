@@ -92,19 +92,19 @@ While the Supremacy sees Vardessa as a lawless state, its people view themselves
 
 ### Allies
 
-- Dun’Rhael — neighboring desert kingdom; shares mutual defense pacts and trade agreements, united by regional concerns and a common enemy.
+- **Dun’Rhael** — neighboring desert kingdom; shares mutual defense pacts and trade agreements, united by regional concerns and a common enemy.  
+- **Njorath** — relations have recently been established via a hidden pass through the Stormbarrier Range
 
 ### Enemies
 
-- The Supremacy — former overlords whose attempts to reclaim Vardessa have forged lasting animosity; the rebellion remains a core part of Vardessian identity.  
+- **The Supremacy** — former overlords whose attempts to reclaim Vardessa have forged lasting animosity; the rebellion remains a core part of Vardessian identity.  
+- **Drenvold** — because of historical and current raids, Vardessa has an antagonistic relationship with Drenvold.
 
 ### Neutral
 
-- Drenvold — relations are primarily limited to trade and occasional diplomacy, with little direct influence over continental affairs.  
-- Njorath — distant northern kingdom; interaction is minimal.  
-- Skarhold — a tiny island nation; considered irrelevant to Vardessa’s security or ambitions.
-- Vass’Kaal — relations are cordial and primarily centered on trade, though contact is limited by the distance of their trade centers.
-- The Ashen Marches — distant and largely inaccessible; contact is minimal, limited to the rare passing trade or messenger, leaving relations neutral and largely observational.
+- **Skarhold** — a tiny island nation; considered irrelevant to Vardessa’s security or ambitions. Small amount of trade.  
+- **Vass’Kaal** — relations are cordial and primarily centered on trade, though contact is limited by the distance of their trade centers.  
+- **The Ashen Marches** — distant and largely inaccessible; contact is minimal, limited to the rare passing trade or messenger, leaving relations neutral and largely observational.
 
 ---
 

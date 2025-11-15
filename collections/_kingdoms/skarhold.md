@@ -83,9 +83,21 @@ Despite isolation, a quiet unity binds the coastal towns. In the creak of riggin
 
 ## **Relations**
 
-- **Allied with:** None — Skarhold is fiercely independent and suspicious of all mainland powers.  
-- **Hostile toward:** Drenvold — old grudges remain over abandoned colonial ambitions and lost resources.  
-- **Neutral toward:** Vardessa, Dun’Rhael, Ashen Marches, and the Supremacy — contact is limited mostly to trade and cautious observation; the island’s isolation and dangers keep mainland powers at bay.  
+### Allies
+
+- **Vass’Kaal** — since their sepration from Drenvold, Skarhold has been in much contact with Vass'Kaal.
+
+### Enemies
+
+- **Drenvold** - Skarhold holds grudges over abandoned colonial ambitions and lost resources.  
+
+### Neutral
+
+- **Dun’Rhael** - No contact since they are separated.  
+- **Njorath** - Skarhold is too small to reach all the way to Njorath.  
+- **The Ashen Marches** — Skarhold does not communicate with the Ashen Marches at all.  
+- **The Supremacy** - Since the Supremacy does not have any regard for Skarhold, they have not had any contact.  
+- **Vardessa** - Skarhold has attempted to reach out to Vardessa. There is a little trade here, but Skarhold is too small to help Vardessa with their goals.
 
 ---
 

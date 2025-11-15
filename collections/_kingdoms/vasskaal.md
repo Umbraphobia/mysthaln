@@ -85,15 +85,15 @@ While aggressive diplomacy is rare, the Ssil’ka can unleash devastating defens
 
 ## **Relations**
 
-### **Allies**
+### Allies
 
 - **Skarhold** — The Ssil’ka value Skarhold’s ancient forests and the mysteries within. Shared reverence for nature has cultivated a rare, genuine alliance.
 
-### **Enemies**
+### Enemies
 
 - **The Ashen Marches** — Emberborn attempts to burn jungle territory throughout history have sparked enduring hostility. Border clashes and scorched incursions keep tensions high.
 
-### **Neutral**
+### Neutral
 
 - **Drenvold** — A distant maritime nation with which Vass’Kaal maintains limited but steady sea-based trade.  
 - **Dun’Rhael** — Though bordering nations, their cultures clash deeply. Mutual respect exists, but understanding does not.  

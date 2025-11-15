@@ -91,9 +91,21 @@ Their alliance with **Drenvold** is one of mutual respect and survival — forge
 
 ## **Relations**
 
-- **Allied with:** Drenvold — strong trade and mutual defense pact.  
-- **Hostile toward:** The Supremacy — historic enmity and repeated border conflicts.  
-- **Neutral toward:** Vardessa and Dun’Rhael — viewed as pragmatic neighbors rather than rivals.  
+### Allies
+
+- **Vardessa** — Njorath has recently joined the Vardessian coalition agains the Supremacy.  
+
+### Enemies
+
+- **Drenvold** - after many raiding incursions, the Njorathi despise Drenvold possibly even more than the Supremacy.  
+- **The Supremacy** — historic enmity and repeated border conflicts continue to cause issues.
+
+### Neutral
+
+- **Dun’Rhael** — though in the same coalition, they have yet to make closer contact.  
+- **Skarhold** - the distance between these two nations makes contact difficult.  
+- **The Ashen Marches** — Njorath does not regard the Ashen Marches as a true nation.  
+- **Vass’Kaal** — there is mutual respect, but no real contact between the two nations.
 
 ---
 
