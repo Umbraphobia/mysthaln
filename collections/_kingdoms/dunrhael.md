@@ -50,7 +50,7 @@ The scarcity of resources means theft and trade are often indistinguishable — 
 
 ## **Demographics**
 
-The Solari make up the vast majority of Dun’Rhael’s population, though small enclaves of Emberborn, humans, and Ssil’ka can be found in the southern border regions.  
+The Solari make up the vast majority of Dun’Rhael’s population, though small enclaves of Emberborn, humans, and Drasshka can be found in the southern border regions.  
 
 The kingdom’s population is heavily concentrated in the south, with few settlements able to survive in the endless desert beyond.  
 

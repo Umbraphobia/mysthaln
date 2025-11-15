@@ -45,7 +45,7 @@ The island’s wealth is barely touched due to the conditions. Smuggling, piracy
 
 ## **Demographics**
 
-Skarhold’s population is approximately 33,000, with roughly **70% Thaldrim**, 20% human, and 10% mixed or minority races. Most inhabitants are concentrated in the four coastal towns, where the largest communities of Thaldrim dockworkers and forgemasters reside.
+Skarhold’s population is approximately 33,000, with roughly **60% Thaldrim**, 20% human, 15% Drasshka and 5% mixed or minority races. Most inhabitants are concentrated in the four coastal towns, where the largest communities of Thaldrim dockworkers and forgemasters reside.
 
 Life expectancy is low, and the population declines slowly as more islanders seek to flee by ship than to stay and fight the island’s rule.
 
