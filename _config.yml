@@ -47,6 +47,9 @@ collections:
   gms:
     output: true
     permalink: /:collection/:name
+  magic:
+    output: true
+    permalink: /:collection/:name
 
 # Exclude from processing.
 # The following items will not be processed, by default.
