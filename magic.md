@@ -10,8 +10,6 @@ A bond can only be severed by **death**. When one partner dies, the other suffer
 
 Below are known magical disciplines by animal type:
 
-| Animal Type | Magic |
-|--------|------------|{% for animal in site.magic %}
-| [{{animal.title}}](..{{animal.url}}) | {{animal.magic}} |{% endfor %}
-
-In Mysthaln, magic is not a tool — it is a **relationship**.
+| Animal Type | Examples | Magic |
+|--------|--------|---|{% for animal in site.magic %}
+| [{{animal.title}}](..{{animal.url}}) | {{animal.animals}} | {{animal.magic}} |{% endfor %}
