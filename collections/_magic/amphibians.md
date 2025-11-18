@@ -7,7 +7,9 @@ animals: Frog, Toad, Salamander, Newt
 
 Those who form a bond with amphibians gain a deep connection to water in all its forms. The link awakens magical control over moisture, streams, and rainfall, allowing the caster to shape, summon, and manipulate water with precision and power. As the bond strengthens, the amphibian companion grows in intelligence, aiding the caster with instinctive understanding of aquatic environments.
 
-## Abilities
+---
+
+## **Abilities Granted by the Amphibian Bond**
 
 - **Spawnwater** - Produce a small volume of clean, drinkable water via touch or breath. More advanced users can specify temperature.
 - **Call Rain** - Summon localized rainfall over a chosen radius; intensity and duration depend on caster skill.
@@ -26,5 +28,7 @@ Those who form a bond with amphibians gain a deep connection to water in all its
 - **Aqua Step** - Walk, run, or dash across water surfaces for short durations.
 - **Fog Form** - Dissolve into mist briefly, becoming difficult to perceive but unable to physically interact.
 - **Current Call** - Control currents in rivers, sewers, or canals for transportation or retrieval.
+
+---
 
 The amphibian bond emphasizes adaptability, patience, and a harmonious balance with nature. Those who master it are often revered for their ability to calm or unleash the powers of water in both subtle and devastating ways.
