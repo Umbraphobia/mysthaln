@@ -5,10 +5,17 @@ title: Emberborn
 
 ![Emberborn Profile](../assets/img/emberborn.jpg)
 
-- Homeland: The Ashen Marches
-- Attributes: +1 Wisdom, -1 Charisma
-- Resistance: Heat
-- Weakness: Cold
+- **Homeland**: The Ashen Marches
+
+### Benefits
+
+- **Born in a Volcano**: +1 Hot Resistance
+
+### Drawbacks
+
+- **Always Glowing**: -1D6 Stealth checks
+
+---
 
 The Emberborn are a fiery-hearted people descended from those who once lived close to the earth’s molten lifeblood. Legends claim their ancestors forged pacts with the sleeping flames beneath the world, gaining the heat of the mountains in their veins. Their homeland lies across smoldering plains and volcanic ridges where rivers of glass cut through blackened stone.
 

@@ -5,9 +5,15 @@ title: Solari
 
 ![Solari Profile](../assets/img/solari.jpg)
 
-- Attributes: +1 Wisdom, -1 Strength
-- Resistance: Drought
-- Weakness: Moisture
+- Homeland: Dun'Rhael
+
+### Benefits
+
+- **Born Travelars**: Can make 1 additional Short rest action during a Long Rest
+
+### Drawbacks
+
+- **Honourable**: -1D6 Deception checks
 
 The Solari are an elven people shaped by the relentless sun and endless dunes. They dwell in the desert realms south of the Supremacy, tending hidden oases and ancient waystations that dot the shifting sands. Where other races see desolation, the Solari see life — fragile, sacred, and fiercely worth defending.
 

@@ -5,9 +5,17 @@ title: Drasshka
 
 ![Drasshka Profile](../assets/img/drasshka.jpg)
 
-- Attributes: +1 Intelligence, -1 Constitution
-- Resistance: Drought
-- Weakness: Moisture
+- **Homeland**: Vass'Kaal
+
+### Benefits
+
+- **Night Vision**: The level of Darkness is reduced by 1. (Complete Darkness has the effect of Darkness, Darkness has the effect of Low Lighting.)
+
+### Drawbacks
+
+- **Alien**: -1D6 Charm checks
+
+---
 
 The Drasshka are a proud and ancient race of scaled folk who thrive in the steaming jungles south of the Solari lands and east of the Emberborn territories. To outsiders, their homeland appears wild and untamed, but to the Drasshka, every vine, root, and stream has purpose. They live not apart from the jungle but within it — their vast, living cities grown from stone, wood, and root, pulsing in harmony with the rhythm of the earth.
 

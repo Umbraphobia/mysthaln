@@ -5,9 +5,15 @@ title: Iskaryn
 
 ![Iskaryn Profile](../assets/img/iskaryn.jpg)
 
-- Attributes: +1 Constitution, -1 Charisma
-- Resistance: Cold
-- Weakness: Heat
+- Homeland: Njorath
+
+### Benefits
+
+- **Cold Climate**: +1 Cold Resistance
+
+### Drawbacks
+
+- **Stoic**: -1d6 Empathy checks
 
 The Iskaryn are a hardy elven people who endure the endless winter that crowns the world. Dwelling in frozen tundra and glacial valleys beyond the Supremacy’s northern borders, they have adapted to survive where most life cannot. Isolation has shaped them into a practical, stoic race — less ethereal than southern elves, more like spirits of endurance and silence.
 

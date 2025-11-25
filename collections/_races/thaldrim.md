@@ -5,9 +5,15 @@ title: Thaldrim
 
 ![Thaldrim Profile](../assets/img/thaldrim.jpg)
 
-- Attributes: +1 Strength, -1 Dexterity
-- Resistance: Moisture
-- Weakness: Drought
+- Homeland: Drenvold
+
+### Benefits
+
+- **Hardy**: +1 HP
+
+### Drawbacks
+
+- **Small Stature**: Cannot wield or wear any single item with a burden of 3 or more.
 
 The Thaldrim are a race of dwarves who traded mountain halls for crashing waves and open horizons. Hemmed in by colossal peaks to the west, they carved their homes into the sea-facing cliffs of the northeast and shaped a culture born from storm and stone. Their ship-halls echo with the chants of skald-smiths, and their long-keel vessels prowl the cold northern waters with equal parts curiosity, pride, and ferocity. Where other dwarves delve downward, the Thaldrim surge outward — explorers, raiders, traders, and storm-singers.
 

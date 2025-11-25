@@ -5,9 +5,15 @@ title: Humans
 
 ![Humans Profile](../assets/img/human.jpg)
 
-- Attributes: +2 Skill
-- Resistance: Varies (Choose)
-- Weakness: Varies (Choose)
+- **Homeland**: Unknown
+
+### Benefits
+
+- **Fast Learner**: The first point in a new school of training costs 2XP (instead of 5XP)
+
+### Drawbacks
+
+- **Dulled Bond**: -3 Spirit
 
 Humans are the most numerous and widespread of all peoples, yet also the most divided. Their origins have long been lost — even the oldest records of the Supremacy claim no homeland. Wherever they go, they build, adapt, and reshape the world in their image. To some, they are pioneers. To others, usurpers.
 
