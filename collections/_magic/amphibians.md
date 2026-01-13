@@ -11,14 +11,16 @@ Those who form a bond with amphibians gain a deep connection to water in all its
 
 ## **Abilities Granted by the Amphibian Bond**
 
+- **Hydro Shield** - A compact defensive bubble or dome absorbing kinetic and elemental force.
+- **Soothing Mist** - Conjure a small cloud of soothing mist that heals burns and refocuses the target.
+- **Aqua Spear** - A high-pressure stream dealing impact damage.
+- **Aqua Mend** - Heals wounds on touch using enchanted water.
+
 - **Spawnwater** - Produce a small volume of clean, drinkable water via touch or breath. More advanced users can specify temperature.
 - **Call Rain** - Summon localized rainfall over a chosen radius; intensity and duration depend on caster skill.
 - **Stormbreak** - Calls a full aquatic storm, potentially including lightning, rough winds, and reduced visibility; difficult to control.
-- **Water Shield** - A compact defensive bubble or dome absorbing kinetic and elemental force. Might muffle sound.
 - **Tidewall** - A stationary vertical barrier that can deflect objects or creatures; can also slow movement like a thick curtain.
-- **Aqua Spear** - A high-pressure stream dealing impact or knockback; can also propel the caster like a mobility tool.
 - **Pondswell** - Temporarily increases local water mass using ambient humidity or nearby water sources — cannot be controlled indefinitely.
-- **Aqua Mend** - Heals wounds, cleanses infection, and mends tissue using enchanted water; cannot regenerate limbs or cure magical curses.
 - **Moisture Bond** - Restore hydration to terrain, plants, or creatures; desert soils bloom temporarily.
 - **Mucus Veil** - Create a slick surface that is nearly impossible to traverse; or coat self with slippery armor.
 - **Bubble Breath** - Encapsulate breathable air in bubbles for underwater survival or rescuing drowning victims.
@@ -32,3 +34,158 @@ Those who form a bond with amphibians gain a deep connection to water in all its
 ---
 
 The amphibian bond emphasizes adaptability, patience, and a harmonious balance with nature. Those who master it are often revered for their ability to calm or unleash the powers of water in both subtle and devastating ways.
+
+## Ability Details
+
+All below abilities have:
+- Type: Amphibian Bond
+- User Requirements: Bonded Amphibian
+
+---
+- Name: Hydro Shield
+- Cost: 0
+- Target Range: CSM
+- Target Type: Ally
+- Roll Details: -X Amphibian Focus Skill
+    - Target Ally gains +1 Unbreakable Armor this round. 
+    - -1D6 to CR if any enemies are within C of you.
+- Effect (Success Only): Defended
+- Learn Requirements: No Trait REQ
+---
+- Name: Soothing Mist
+- Cost: 1
+- Target Range: CSM
+- Target Type: Ally
+- Roll Details: +0 Amphibian Focus Skill
+- Effect (Success Only): Defended
+    - Reduce Burn and Stun by 1 on target
+- Learn Requirements: Investigation 2, Survival 2
+---
+- Name: Aqua Spear
+- Cost: 1
+- Target Range: SML
+- Target Type: Enemy
+- Roll Details: +0 Amphibian Focus Skill
+- Effect (Success Only): +0 Focus Damage
+- Learn Requirements: Knowledge 2, Survival 2
+---
+- Name: Aqua Mend
+- Cost: 4
+- Target Range: C
+- Target Type: Ally
+- Roll Details: +0 Amphibian Focus Skill
+- Effect (Success Only): Defended
+    - Heal 2HP on target.
+- Learn Requirements: Empathy 3, Survival 4
+---
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+---
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+---
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+---
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+---
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+---
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+---
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+---
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+---
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+---
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+---
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+---
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+---
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+---
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 

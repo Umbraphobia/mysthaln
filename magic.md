@@ -13,3 +13,15 @@ Below are known magical disciplines by animal type:
 | Animal Type | Examples | Magic |
 |--------|--------|---|{% for animal in site.magic %}
 | [{{animal.title}}](..{{animal.url}}) | {{animal.animals}} | {{animal.magic}} |{% endfor %}
+
+
+## Ability Template
+- Type: 
+- Name: 
+- User Requirements: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
