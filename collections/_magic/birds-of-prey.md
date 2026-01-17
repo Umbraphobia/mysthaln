@@ -39,3 +39,189 @@ The Birds of Prey Bond grants unmatched perception, clarity, and ranged precisio
 - **Talonstrike Union** - Fuse your projectile with your bird’s diving strike for devastating impact.
 
 ---
+
+## Ability Details
+
+All below abilities have:
+- Type: Bird of Prey Bond
+- User Requirements: Bonded Bird of Prey
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 

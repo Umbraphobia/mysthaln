@@ -32,3 +32,189 @@ Those bonded with crows, ravens, magpies, or jackdaws wield magic rooted in clev
 **False Strike** – Project a fake attack animation while your real strike comes from another angle.
 
 ---
+
+## Ability Details
+
+All below abilities have:
+- Type: Corvid Bond
+- User Requirements: Bonded Corvid
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 

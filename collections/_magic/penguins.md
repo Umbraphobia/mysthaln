@@ -32,3 +32,189 @@ Those bonded with penguins command the primal cold of the frozen seas. Their mag
 - **Icy Grasp** – Generate intense cold through your hands, allowing you to freeze objects or immobilize foes by touch.  
 
 ---
+
+## Ability Details
+
+All below abilities have:
+- Type: Penguin Bond
+- User Requirements: Bonded Penguin
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
+
+---
+
+- Name: 
+- Cost: 
+- Target Range: 
+- Target Type: 
+- Roll Details: 
+- Effect (Success Only): 
+- Learn Requirements: 
