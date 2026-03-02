@@ -38,28 +38,36 @@ Butterfly/Moth casters are elusive, evasive, and impossibly hard to pin down—i
 ## Ability Details
 
 All below abilities have:
-- Type: Butterfly Bond
-- User Requirements: Bonded Butterfly
+- Type: Butterfly & Moth Bond
+- User Requirements: Bonded Butterfly or Moth
 
 ---
 
-- Name: 
-- Cost: 
-- Target Range: 
-- Target Type: 
-- Roll Details: 
-- Effect (Success Only): 
-- Learn Requirements: 
+- Name: Blink
+- Cost: 0
+- Target Range: CS
+- Target Type: Self
+- Roll Details: +0 Butterfly & Moth Focus Skill
+- Effect (Success Only): Defended
+    - Instantly teleport to any unoccupied space within S.
+    - You may use this skill even if you are within C of an opponent.
+    - This movement ignores Difficult Terrain.
+    - You cannot teleport into Impassable Terrain.
+- Learn Requirements: No Trait REQ
 
 ---
 
-- Name: 
-- Cost: 
-- Target Range: 
-- Target Type: 
-- Roll Details: 
-- Effect (Success Only): 
-- Learn Requirements: 
+- Name: Anchor
+- Cost: 2
+- Target Range: C
+- Target Type: Space
+- Roll Details: +0 Butterfly & Moth Focus Skill
+- Effect (Success Only):
+    - Imbue a single unoccupied space you are touching with a shimmering wing-mark, designating it as an Anchor point.
+    - You may have only one active Anchor at a time. Creating a new Anchor removes the previous one.
+    - The Anchor remains for up to 24 hours, or until you take a Long Rest.
+    - The Anchored space must remain unoccupied to be a valid teleport destination.
+- Learn Requirements: Knowledge 2, Intuition 2
 
 ---
 
